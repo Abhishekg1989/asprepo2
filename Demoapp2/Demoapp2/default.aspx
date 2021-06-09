@@ -11,6 +11,6 @@
         <div>
         </div>
     </form>
-    <h1> This is my frst project for devops CD</h1>
+    <h1> This is my first project for devops CD Deploment </h1>
 </body>
 </html>
